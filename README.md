@@ -10,16 +10,15 @@ Original source: https://www.kaggle.com/datasets/wenruliu/adult-income-dataset
 
 There are 15 columns and 48,842 rows.
 
+
 ## Data Dictionary
 ![Screenshot 2023-05-12 062242](https://github.com/jakecho1108/Project-2/assets/61045591/1fcc2659-aee3-421c-b243-1f40ea3fc373)
 
 #### To prepare for analysis, data was cleaned by dealing with missing data points and inconsistent categorization 
 
 ## Exploratory Visuals
-
-![Screenshot 2023-05-12 062505](https://github.com/jakecho1108/Project-2/assets/61045591/cc892a8a-55d3-400d-a29d-750b89fcba2c)
-![Screenshot 2023-05-12 062420](https://github.com/jakecho1108/Project-2/assets/61045591/9857e2c4-b155-4194-975c-93666aaa04ac)
-![Screenshot 2023-05-12 062445](https://github.com/jakecho1108/Project-2/assets/61045591/0a00bb4a-0203-4215-834f-9df9948329e7)
+![pic1](https://github.com/jakecho1108/Project-2/assets/61045591/577004cd-cecb-4406-b945-c5ba435896fb)
+![download](https://github.com/jakecho1108/Project-2/assets/61045591/f240583d-b5ab-40fb-be4f-7831f7c7387d)
 
 ## Modeling results
 
