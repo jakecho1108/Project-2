@@ -22,7 +22,11 @@ There are 15 columns and 48,842 rows.
 
 ## Modeling results
 
-Using both K Nearest Neighbors and decision tree, experiment tries to determine which is the better model to determine their income. 
-![Screenshot 2023-05-12 062823](https://github.com/jakecho1108/Project-2/assets/61045591/25d4443a-020e-47cc-9ebe-ddec6a1bbf0a)
+Using both K Nearest Neighbors and decision tree, experiment tries to determine which is the better model to determine their income. Furthermore, I used PCA and GridSearchCV to improve the models.
+![image](https://github.com/jakecho1108/Project-2/assets/61045591/d56c8099-13d5-4b67-9dc8-761a08a72725)
 
-Best result ended up being this Decision Tree model. 
+Best result ended up being this Decision Tree model with GridSearch. 
+
+## Conclusion and Recommendation
+
+Out of all the models, the best one is Decision Tree with GridSearchCV. It had the highest accuracy and highest precision score. For cases like this, ability to get the true positives is the most important factor therefore, I value the precision score the most. I would recommend this model if the pure goal of the problem asked if we can help predict whether the person makes more than $50,000 yearly and believe the results if the model predicts that the person made more than 50K salary. To improve this problem and take this question to the next level, 
